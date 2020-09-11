@@ -1,0 +1,1 @@
+Aggiungere il serviceAccount di firebase sotto src/serviceAccount.json

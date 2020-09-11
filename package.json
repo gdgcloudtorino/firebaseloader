@@ -6,7 +6,7 @@
   "scripts": {
     "tsc": "tsc",
     "start" : "npm run firestore:dbsync",
-    "firestore:dbsync": "firebase firestore:delete -r --all-collections && ts-node ./src/import-default-data",
+    "firestore:dbsync": "firebase firestore:delete -r --all-collections --project devfest2020-287916 && ts-node ./src/import-default-data",
     "firestore:dbwrite": "ts-node ./src/import-default-data"
   },
   "keywords": [],
