@@ -638,6 +638,44 @@
 				"link": "https://developers.google.com/community/experts/directory/profile/profile-antonella_blasetti",
 				"name": "gde"
 			}]
+		},
+		"JavierProvechoFernandez": {
+			"bio": "Javier Provecho works at Telefónica, engages with the community as a Cloud GDE and open source maintainer. He is passionate about new technologies and methodologies around the CNCF.",
+			"company": "",
+			"companyLogoUrl": "",
+			"country": "Spain",
+			"name": "Javier Provecho Fernandez",
+			"order": 16,
+			"photoUrl": "https://sessionize.com/image?f=04d8986c4729bd60573b51fb9c5239af,200,200,1,0,f6-5e1e-4b65-b0be-84294acb0749.e13f67b7-39a6-43c0-8888-e4cc9b29b129.jpeg",
+			"shortBio": "Cloud GDE, Senior SRE at Telefónica / 11Paths",
+			"title": "Cloud GDE, Senior SRE at Telefónica / 11Paths",
+			"socials": [],
+			"badges": [{
+				"description": "Google Developers Expert - Cloud Computing",
+				"link": "https://developers.google.com/community/experts/directory/profile/profile-javier_provecho",
+				"name": "gde"
+			}]
+		},
+		"LauraMorinigo": {
+			"bio": "Laura is a software developer, advocate, and mentor. She has been involved in the tech industry for over 10 years, working as a full-stack developer and getting involved with education projects teaching coding in cities like New York and Buenos Aires. She has been recognized as a Google Developer Expert and a Woman Techmakers Ambassador, as a mentor she helped startups participating in accelerator programs like Google Launchpad and the World Food Programme by the United Nations. Currently, she is a web developer advocate for Samsung Internet at Samsung Research Institute UK where the team contributes to open source projects, build demos and participate in conferences getting the word out about advanced web features helping web developers to create great and more inclusive web apps.",
+			"company": "",
+			"companyLogoUrl": "",
+			"country": "UK",
+			"name": "Laura Morinigo",
+			"order": 17,
+			"photoUrl": "https://sessionize.com/image?f=d934f776d4f7e83d2b845d7b354cfd5d,200,200,1,0,c6-092a-4961-80f0-c99652a2b50b.ad7b678f-d940-4ab0-86c8-2e476e7b412f.jpg",
+			"shortBio": "Firebase GDE, Developer Advocate",
+			"title": "Firebase GDE, Developer Advocate",
+			"socials": [{
+				"icon": "linkedin",
+				"link": "https://www.linkedin.com/in/laurasmorinigo/",
+				"name": "LinkedIn"
+			}],
+			"badges": [{
+				"description": "Google Developers Expert - Firebase",
+				"link": "https://developers.google.com/community/experts/directory/profile/profile-laura_morinigo",
+				"name": "gde"
+			}]
 		}
     },
 	"team": [{
