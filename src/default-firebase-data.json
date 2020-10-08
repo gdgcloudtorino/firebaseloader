@@ -825,7 +825,169 @@
 				"name": "LinkedIn"
 			}],
 			"badges": []
+		}, "AlfredoMorresi": {
+			"bio": "Mi appassiona supportare l'innovazione grazie alle dinamiche di community e alla tecnologia. Lavoro nel team Developer Relations di Google. Adoro scrivere codice, la natura, l’open source, correre lungo la spiaggia, fare snowboard e mangiare tiramisù.",
+			"company": "",
+			"companyLogoUrl": "",
+			"country": "Italy",
+			"name": "Alfredo Morresi",
+			"order": 27,
+			"photoUrl": "https://sessionize.com/image?f=6e1130e0409ea9f5b95bc2320a542630,200,200,1,0,32-0fc4-4160-a7c9-0284e55e6398.0bd0ea63-a95f-43d3-bd60-d1fd9fe000da.jpg",
+			"shortBio": "Developer Relations @ Google",
+			"title": "Developer Relations @ Google",
+			"socials": [{
+				"icon": "linkedin",
+				"link": "https://www.linkedin.com/in/alfredomorresi/",
+				"name": "LinkedIn"
+			}],
+			"badges": []
+		}, "FedericoPaolinelli": {
+			"bio": "Federico works remotely for Red Hat, contributing to network features of the OpenShift container platform. Before that, he has been working for more than 10 years implementing complex distributed systems in the finance field. Beyond that, he is an active opensource supporter with contributions to various projects, Firefox for Android and Athens, the go dependency proxy among the others.",
+			"company": "",
+			"companyLogoUrl": "",
+			"country": "Italy",
+			"name": "Federico Paolinelli",
+			"order": 28,
+			"photoUrl": "https://sessionize.com/image?f=4145effeb47df838210ecbd7c19d2f66,200,200,1,0,31dd1acb-1b65-4e6f-a98c-3e9fe8f41f2f.jpg",
+			"shortBio": "Principal Software Engineer at Red Hat",
+			"title": "Principal Software Engineer at Red Hat",
+			"socials": [{
+				"icon": "linkedin",
+				"link": "https://www.linkedin.com/in/federico-paolinelli-2374954/",
+				"name": "LinkedIn"
+			}],
+			"badges": []
+		}, "JoeBirch": {
+			"bio": "Hi, my names Joe. I’m an Android Engineer and Google Developer Expert for Android, Google Pay and Flutter based in Brighton, UK working on the Android team at Buffer. I’m passionate about coding and love creating robust, polished and exciting projects for mobile, the web, TV, wearables and I’ll probably be toying with whatever the new thing is at the time you’re reading this – I love to be constantly learning. I’m also a keen writer as I love to share my learnings and experiences with others.",
+			"company": "",
+			"companyLogoUrl": "",
+			"country": "UK",
+			"name": "Joe Birch",
+			"order": 29,
+			"photoUrl": "https://sessionize.com/image?f=99e2f1296a4c34735436d03442781c64,200,200,1,0,36905613-03bb-4a98-8405-c07b923f1414.jpg",
+			"shortBio": "Android, Google Pay and Flutter GDE & Senior Engineer @ Buffer",
+			"title": "Android, Google Pay and Flutter GDE & Senior Engineer @ Buffer",
+			"socials": [{
+				"icon": "linkedin",
+				"link": "https://www.linkedin.com/in/joe-birch-80392157/",
+				"name": "LinkedIn"
+			}],
+			"badges": [{
+				"description": "Google Developers Expert - Android, Google Pay and Flutter",
+				"link": "https://developers.google.com/community/experts/directory/profile/profile-joe_birch",
+				"name": "gde"
+			}]
+		}, "KarenHuaulme": {
+			"bio": "As a Developer Advocate at MongoDB, Karen Huaulmé (pronounced “You-Old-Maid” - but with no d’s) collaborates with developers to unleash their creativity across all aspects of data and technology. Leveraging her past experience as a Solutions Architect for some of MongoDB’s most demanding customers, Karen loves to trigger that “aha” moment in the minds of developers - when they recognize a better path to simplify, enhance, and accelerate their projects in ways they never thought possible. Prior to MongoDB, Karen spent most of her career working with video game developers as a Solutions Architect and Integration Engineer at Nvidia, Amazon, and Twitch. In her free time, Karen embarrasses her 2 kids, spoils her dog, and feeds her addiction to adventure travel - not necessarily in that order.",
+			"company": "",
+			"companyLogoUrl": "",
+			"country": "USA",
+			"name": "Karen Huaulme",
+			"order": 30,
+			"photoUrl": "https://sessionize.com/image?f=89085e40eaf7c33c1b82d18673c3fe0b,200,200,1,0,37-24ba-467d-907a-63f6e955f1f5.64d4d949-5bd2-4911-99c7-c25d8bc81f00.jpg",
+			"shortBio": "Principal Developer Advocate, MongoDB",
+			"title": "Principal Developer Advocate, MongoDB",
+			"socials": [{
+				"icon": "linkedin",
+				"link": "https://www.linkedin.com/in/karen-huaulme-a6069164/",
+				"name": "LinkedIn"
+			}],
+			"badges": []
+		}, "FrancescoSciuti": {
+			"bio": "A talented and accomplished programmer extremely competent after several years of experience in enterprise programming , high skilled in web development (frontend and backend) and in team project management. I have a keen interest in new technologies and in IT development and I’m always upgrading and evaluating my knowledge and skills to stay at the cutting-edge of web development. My outstanding verbal and written communication skills let me involved in lots of meetings, workshop and courses both in Sicily and in Italy as a speaker and tech event organizer. Focused on continual professional and technological improvement: books, courses, articles, forums and regular attender of tech events where I can meet new and interesting people with which exchange as much as possible ideas and technical knowledge. I want to put myself in challenges both in the personal and professional side and this is way I’m involved ,as an active contributor, in many Italian communities (Angular ,React, Javascript ,GDG, PUG, etc…) and I contribute as a counselor to CoderDojo Foundation (Computational youth learning). I’ve worked for a long time as a employee and then as a freelancer, but nowadays I has my own company: Acadevmy – Software Factory, founded with my friends Andrea and Salvo.",
+			"company": "",
+			"companyLogoUrl": "",
+			"country": "Italy",
+			"name": "Francesco Sciuti",
+			"order": 31,
+			"photoUrl": "https://sessionize.com/image?f=4121409f987713382ad4aee72c5dea3d,200,200,1,0,42-456a-4934-a1ac-414d4ba2990b.71973600-d633-4263-8a5f-af81a0d4dd94.jpg",
+			"shortBio": "Microsoft MVP & CEO @ Acadevmy srl",
+			"title": "Microsoft MVP & CEO @ Acadevmy srl",
+			"socials": [{
+				"icon": "linkedin",
+				"link": "https://www.linkedin.com/in/francescosciuti/",
+				"name": "LinkedIn"
+			}],
+			"badges": []
+		}, "CarlosMota": {
+			"bio": "Android team lead at WIT Software, he can easily be spotted there working on the company RCS solution. An enthusiastic for new technology and always trying to reach those last 20% of all of his side projects that seem to be really far away, he loves to share his knowledge with others either by giving talks, teaching, writing or along with a cold beer in the nearest pub. GDG Coimbra organizer and Kotlin evangelist, he also has a huge passion for travel, photography, space and the occasional run.",
+			"company": "",
+			"companyLogoUrl": "",
+			"country": "Portugal",
+			"name": "Carlos Mota",
+			"order": 32,
+			"photoUrl": "https://sessionize.com/image?f=d37d0ba41be956a7b7df95a322b05363,200,200,1,0,b0b9f1ee-6694-4781-b9ec-af27ef8707ae.jpg",
+			"shortBio": "Lead Software Engineer at WIT Software",
+			"title": "Lead Software Engineer at WIT Software",
+			"socials": [{
+				"icon": "linkedin",
+				"link": "https://www.linkedin.com/in/cafonsomota/",
+				"name": "LinkedIn"
+			}],
+			"badges": []
+		}, "CarloLucera": {
+			"bio": "Conosciuto sul Web come HatDroid, Carlo è un entusiasta delle nuove tecnologie ed uno sviluppatore Android. Da sempre alla ricerca di nuove tecniche e strategie per migliorarsi.",
+			"company": "",
+			"companyLogoUrl": "",
+			"country": "Italy",
+			"name": "Carlo Lucera",
+			"order": 33,
+			"photoUrl": "https://sessionize.com/image?f=47d8466731d596bffe804ba851d167c5,200,200,1,0,1cc6b36a-67a1-40a4-9b7d-d6e6460f6271.jpg",
+			"shortBio": "HatDroid! Android & Flutter dev",
+			"title": "HatDroid! Android & Flutter dev",
+			"socials": [{
+				"icon": "linkedin",
+				"link": "https://www.linkedin.com/in/clucera/",
+				"name": "LinkedIn"
+			}],
+			"badges": []
+		}, "YahyaBayramoglu": {
+			"bio": "Yahya Bayramoğlu is a passionate Android Developer from Turkey and currently working at Uber in Amsterdam. He has been developing for Android Platform since 2012, and constantly adapt himself with the platform changes and requirements and always follows up the new cool things on industry.",
+			"company": "",
+			"companyLogoUrl": "",
+			"country": "Turkey",
+			"name": "Yahya Bayramoglu",
+			"order": 34,
+			"photoUrl": "https://sessionize.com/image?f=fdf8a9b932d3cb60a6a61c8bfe654e2d,200,200,1,0,74-51c7-4b7b-8a58-b63aae89efe2.8043f447-8550-4a76-aceb-70e64fdc65e9.jpg",
+			"shortBio": "Android Engineer, Uber",
+			"title": "Android Engineer, Uber",
+			"socials": [{
+				"icon": "linkedin",
+				"link": "https://www.linkedin.com/in/yahyabayramoglu/",
+				"name": "LinkedIn"
+			}],
+			"badges": []
+		}, "NicolaPedot": {
+			"bio": "Cresciuto professionalmente in azienda di sviluppo software di servizi bancari, da 5 anni svolgo attività di consulenza sviluppo e trasferimento tecnologico per piccole/medie imprese. Da sempre appassionato di comunità informatiche locali.",
+			"company": "",
+			"companyLogoUrl": "",
+			"country": "Italy",
+			"name": "Nicola Pedot",
+			"order": 35,
+			"photoUrl": "https://sessionize.com/image?f=bd0f404f4bdf77f8d1150c8f618876ef,200,200,1,0,abce1c60-7831-40a2-9578-07ab8b4d50d3.jpg",
+			"shortBio": "Informatelier.it Software Craftsman",
+			"title": "Informatelier.it Software Craftsman",
+			"socials": [],
+			"badges": []
+		}, "FaizMalkani": {
+			"bio": "I'm a digital product designer, leading design at Agrahyah Technologies, with a focus on user experience and conversational design, and I occasionally write code for the frontend web and mobile. I'm passionate about inclusive design and accessible tech, and love all things community. I also frequently speak at tech conferences and mentor product teams both independently as well as a Google for Startups mentor.",
+			"company": "",
+			"companyLogoUrl": "",
+			"country": "India",
+			"name": "Faiz Malkani",
+			"order": 36,
+			"photoUrl": "https://sessionize.com/image?f=5a6816df389dfc3be59f1caefc4ee278,200,200,1,0,96-6c10-412b-a355-1962e1678370.0822e8f6-95bf-4678-b7bf-8e49e8b1a493.jpg",
+			"shortBio": "Agrahyah Technologies",
+			"title": "Agrahyah Technologies",
+			"socials": [{
+				"icon": "linkedin",
+				"link": "https://www.linkedin.com/in/faizmalkani/",
+				"name": "LinkedIn"
+			}],
+			"badges": []
 		}
+
+		
     },
 	"team": [{
 		"members": [{
