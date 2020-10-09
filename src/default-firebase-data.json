@@ -985,6 +985,150 @@
 				"name": "LinkedIn"
 			}],
 			"badges": []
+		}, "MatteoTesti": {
+			"bio": "Matteo Testi is an entrepreneur with a strong background in Computational Neuroscience and Data Science with a focus on Deep Learning models and Cloudera Ecosystem. He founded Deep Learning Italia the biggest e-learning platform on Artificial Intelligence area in the Italian language. He was one of the technical writers for the Artificial Intelligence Italian white paper. In January 2018 he founded Icaro Artificial Intelligence solution a Fintech company with a focus on Deep Learning models for Asset Allocation.",
+			"company": "",
+			"companyLogoUrl": "",
+			"country": "Italy",
+			"name": "Matteo Testi",
+			"order": 37,
+			"photoUrl": "https://sessionize.com/image?f=99492cac75c2ef67192bfd5572a7a173,200,200,1,0,456a72e2-4f52-4125-acf5-d9e52fbaf51e.jpg",
+			"shortBio": "Deep Learning Italia",
+			"title": "Deep Learning Italia",
+			"socials": [{
+				"icon": "linkedin",
+				"link": "https://www.linkedin.com/in/matteo-testi/",
+				"name": "LinkedIn"
+			}],
+			"badges": []
+		}, "ValentinaPierpaoli": {
+			"bio": "Asking “why” supporter. Collaborative work believer. Research-Driven thinker",
+			"company": "",
+			"companyLogoUrl": "",
+			"country": "Italy",
+			"name": "Valentina Pierpaoli",
+			"order": 38,
+			"photoUrl": "https://sessionize.com/image?f=d3e4059c3068f6acd90db4e21ed13109,200,200,1,0,86a947f8-e384-41fa-bf28-5cb6fef6be32.jpg",
+			"shortBio": "Digital Product Designer @ Uqido",
+			"title": "Digital Product Designer @ Uqido",
+			"socials": [{
+				"icon": "linkedin",
+				"link": "https://www.linkedin.com/in/valentina-pierpaoli-437728134/",
+				"name": "LinkedIn"
+			}],
+			"badges": []
+		},"ManuelTrebbi": {
+			"bio": "My name is Manuel, I am 28 years old, I have been a programmer since I was 18, I am currently a consultant for Innoteam srl. In 2017 I had a motorcycle accident and I lost a foot, from there with great difficulty I started a path that brought me to the national podiums of Paralympic athletics.",
+			"company": "",
+			"companyLogoUrl": "",
+			"country": "Italy",
+			"name": "Manuel Trebbi",
+			"order": 39,
+			"photoUrl": "https://sessionize.com/image?f=87eee88b843f1948e3ca46d589e78d0e,200,200,1,0,c7d47ce5-436c-43b3-91dc-45023c6c8c99.jpg",
+			"shortBio": "Senior Developer",
+			"title": "Senior Developer",
+			"socials": [{
+				"icon": "linkedin",
+				"link": "https://www.linkedin.com/in/manuel-trebbi-82a9789b/",
+				"name": "LinkedIn"
+			}],
+			"badges": []
+		},"SonnyZanfardino": {
+			"bio": "Sono il fondatore di 5 Step to ROI e un business strategist aziendale. Sono una persona entusiasta e curiosa di lanciarsi in nuove attività o progetti.  Dal 2015 mi occupo di strategia aziendale.",
+			"company": "",
+			"companyLogoUrl": "",
+			"country": "Italy",
+			"name": "Sonny Zanfardino",
+			"order": 40,
+			"photoUrl": "https://sessionize.com/image?f=4ba14a23202b8a1c99b96fe70f9e42a9,200,200,1,0,937a7614-87d8-4b1e-ab11-7751782bd566.jpg",
+			"shortBio": "Consulente | Project Manager",
+			"title": "Consulente | Project Manager",
+			"socials": [{
+				"icon": "linkedin",
+				"link": "https://www.linkedin.com/in/sonny-zanfardino/",
+				"name": "LinkedIn"
+			}],
+			"badges": []
+		},"AshitaPrasad": {
+			"bio": "Ashita is a die hard Flutterista and creator of Flutter Gems (https://fluttergems.dev), a curated Flutter package guide which is trusted by more than 10000 Flutter developers across the globe.",
+			"company": "",
+			"companyLogoUrl": "",
+			"country": "India",
+			"name": "Ashita Prasad",
+			"order": 41,
+			"photoUrl": "https://sessionize.com/image?f=505a30c3c1feea13c7df3e184258eab0,200,200,1,0,4cbfb5ac-037b-4804-830d-8d682ef1851e.jpg",
+			"shortBio": "Creator, fluttergems.dev",
+			"title": "Creator, fluttergems.dev",
+			"socials": [{
+				"icon": "linkedin",
+				"link": "https://www.linkedin.com/in/ashitaprasad/",
+				"name": "LinkedIn"
+			}],
+			"badges": []
+		},"FrancescoFullone": {
+			"bio": "I'm Francesco Fullone business designer, consultant, and mentor and investor in technology companies with a focus on sustainability or social impact. I help companies (in any stage) to better define their business propositions and to create options to validate them. I also advise companies to better organize themselves in order to reach their goals. I founded, and I contribute to Apropos, a company which helps communities, companies, and local groups to organize conference and workshops. If you attended an international conference about web technologies in Italy, you met me as a speaker, organizer, or attendee. I'm the president of the GrUSP, a no-profit association that encourages good practices in web development since 2002. I also founded companies such as Flowing (previously known as Ideato), where I contributed to its growth for more than ten years creating an innovative and quality reference for the development agencies in Italy.",
+			"company": "",
+			"companyLogoUrl": "",
+			"country": "Italy",
+			"name": "Francesco Fullone",
+			"order": 42,
+			"photoUrl": "https://sessionize.com/image?f=be2e2eae4472b901981f47032f30cc00,200,200,1,0,4a502f1e-9c45-4c0d-a490-814158600800.jpg",
+			"shortBio": "consultant, entrepreneur, community leader and advisor",
+			"title": "consultant, entrepreneur, community leader and advisor",
+			"socials": [{
+				"icon": "linkedin",
+				"link": "https://www.linkedin.com/in/fullo/",
+				"name": "LinkedIn"
+			}],
+			"badges": []
+		},"MichelMurabito": {
+			"bio": "Deputy CTO by day, Developer in the soul, Superhero wannabe by night. Attualmente ricopre la carica di Deputy Chief Technical Officer in Liscor S.p.A, classe 1986 nato a Torino e cresciuto in Sicilia, inizia a scrivere software per gioco a 12 anni. Primo lavoro a 18 anni come Sviluppatore Software, da lì inizia ad esplorare vari contesti e nuove opportunità di crescita professionale. Lavora come dipendente e come libero professionista collaborando ad alcuni progetti tecnologici per la Regione Siciliana e il MiBACT. Contribuisce alla creazione di numerose startup digital e di prodotti innovativi per grossi clienti internazionali. Tra il 2015 e il 2017 si occupa di relazioni con gli sviluppatori, nel team di Developer Relations per una grossa multinazionale Americana. Tra le più grandi passioni quella di raccontare le nuove tecnologie e come gli sviluppatori possono aiutare a creare prodotti migliori; nel triennio 2017/2019 ha partecipato come speaker a 80 eventi e conferenze in Italia ed Europa.",
+			"company": "",
+			"companyLogoUrl": "",
+			"country": "Italy",
+			"name": "Michel Murabito",
+			"order": 43,
+			"photoUrl": "https://sessionize.com/image?f=3a3c7373b8a1414fe41238a0044f6efe,200,200,1,0,32-a9e7-4097-9ee9-8d886a54b63e.27bc137d-1c0e-46b5-b766-77d480a3639c.jpeg",
+			"shortBio": "Deputy CTO @Liscor (Gruppo @Lutech)",
+			"title": "Deputy CTO @Liscor (Gruppo @Lutech)",
+			"socials": [{
+				"icon": "linkedin",
+				"link": "https://www.linkedin.com/in/michel-murabito-b5568845/",
+				"name": "LinkedIn"
+			}],
+			"badges": []
+		},"FabrizioWaldner": {
+			"bio": "Recently joined Google as Site Reliability Engineer after 5 years as Unix System Administrator in the financial sector.",
+			"company": "",
+			"companyLogoUrl": "",
+			"country": "Italy",
+			"name": "Fabrizio Waldner",
+			"order": 44,
+			"photoUrl": "https://sessionize.com/image?f=4cfaf0e3c6c00c51b9173f119ab6ee23,200,200,1,0,d3-50c7-4eb6-b899-c15afef8fbd6.7d0b5124-0fac-4c0d-9331-1d90b7341a57.JPG",
+			"shortBio": "Google, Site Reliability Engineer",
+			"title": "Google, Site Reliability Engineer",
+			"socials": [{
+				"icon": "linkedin",
+				"link": "https://www.linkedin.com/in/fabrizio-waldner/",
+				"name": "LinkedIn"
+			}],
+			"badges": []
+		},"NavSingh": {
+			"bio": "He is a professional Android developer. Apart from his day to day job, He spend his time to learn new technologies/frameworks. He is also an Organizer at GDG-Montreal. He also work as Android instructor at Caster.io and mentor at Udacity. During his free he loves to watch Netflix, or you can find him at Gym.",
+			"company": "",
+			"companyLogoUrl": "",
+			"country": "Canada",
+			"name": "Nav Singh",
+			"order": 45,
+			"photoUrl": "https://sessionize.com/image?f=3521f1e7f872854787bc5fbcc7958b14,200,200,1,0,83452dbd-a4d4-42de-ae49-42b52192cfa5.jpg",
+			"shortBio": "Android developer at Manulife",
+			"title": "Android developer at Manulife",
+			"socials": [{
+				"icon": "linkedin",
+				"link": "https://www.linkedin.com/in/navczydev/",
+				"name": "LinkedIn"
+			}],
+			"badges": []
 		}
 
 		
