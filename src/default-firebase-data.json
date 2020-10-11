@@ -1129,9 +1129,103 @@
 				"name": "LinkedIn"
 			}],
 			"badges": []
+		},"GiovannaDeVincenzo": {
+			"bio": "Data scientist di Infocamere, cofounder di R-Ladies Bari e data visualization lover. Dopo la laurea in Economia, ha frequentato un Master in Data Science e ha scoperto la sua vera passione: raccontare i dati. Specializzata in R, data analytics e data visualization, ha ottenuto di recente la certificazione come Tableau Desktop Specialist. Ama la tecnologia, l'innovazione e la tecno inclusione. Nel 2018 ha fondato la community delle R-Ladies Bari, un gruppo locale che si rifà a RLadies Global, un’organizzazione internazionale non-profit il cui scopo è di promuovere diversità ed equità di genere nella comunità di utenti di R. Questo il suo credo: limiti e cliché non esistono se c'è passione e motivazione in quel che si fa",
+			"company": "",
+			"companyLogoUrl": "",
+			"country": "Italy",
+			"name": "Giovanna de Vincenzo",
+			"order": 46,
+			"photoUrl": "https://sessionize.com/image?f=da7f9f7b1ebe370839defc519591428a,200,200,1,0,be-7fd7-413a-8124-e24f747f3b92.d5eacaf9-2798-4f8e-a0e1-72c5130e3e84.jpg",
+			"shortBio": "Data Scientist @InfoCamere, Founder R-Ladies Bari",
+			"title": "Data Scientist @InfoCamere, Founder R-Ladies Bari",
+			"socials": [{
+				"icon": "linkedin",
+				"link": "https://www.linkedin.com/in/giodevincenzo/",
+				"name": "LinkedIn"
+			}],
+			"badges": []
+		},"SaraIacozza": {
+			"bio": "Dottorata in Neuroscienze e psicologia cognitiva, ora mi occupo di alfabetizzazione dati e consulenza. La mia missione è supportare coloro che si avvicinano al mondo dei dati venendo da settori non tradizionalmente legati ad essi.",
+			"company": "",
+			"companyLogoUrl": "",
+			"country": "Italy",
+			"name": "Sara Iacozza",
+			"order": 47,
+			"photoUrl": "https://media-exp1.licdn.com/dms/image/C5603AQFtYyKCB8kLNg/profile-displayphoto-shrink_800_800/0?e=1608163200&v=beta&t=pdNP8Tu5-MwNu-cQzT3_i_gD3YTg0Ajv0ltdjRrxHzs",
+			"shortBio": "Data advocate",
+			"title": "Data advocate",
+			"socials": [{
+				"icon": "linkedin",
+				"link": "https://www.linkedin.com/in/sara-iacozza/",
+				"name": "LinkedIn"
+			}],
+			"badges": []
+		},"ParvaneShafiei": {
+			"bio": "Parvaneh is a senior Data scientist in EY with more than 5 years of experience in applying Advanced Analytics & Machine Learning for business problems & identifying the best practices tailored for each client.",
+			"company": "",
+			"companyLogoUrl": "",
+			"country": "Italy",
+			"name": "Parvane Shafiei",
+			"order": 48,
+			"photoUrl": "https://sessionize.com/image?f=e8ef4d6df902265ae707ed777593ee50,200,200,1,0,142e6906-b120-4a39-b68c-2a70be03140d.jpg",
+			"shortBio": "Data scientist, Founder R-Ladies Milano",
+			"title": "Data scientist, Founder R-Ladies Milano",
+			"socials": [{
+				"icon": "linkedin",
+				"link": "https://www.linkedin.com/in/parvaneh-shafiei-867bb73b/",
+				"name": "LinkedIn"
+			}],
+			"badges": []
+		},"MarcoGomiero": {
+			"bio": "I'm working as Uniwhere Tech Lead, where I manage the end-to-end development of a platform with half a million users. I'm a Kotlin lover with a Computer Engineering degree, I have experience with native Android and native iOS development, as well as cross-platform development with React Native, Flutter and Kotlin Multiplatform. In my spare time I write and maintain open source code, I share my dev experience by speaking at confs and organizing events with the Google Developer Group Venezia and I play basketball.",
+			"company": "",
+			"companyLogoUrl": "",
+			"country": "Italy",
+			"name": "Marco Gomiero",
+			"order": 49,
+			"photoUrl": "https://sessionize.com/image?f=ee30985876f6298e0fac87e069f1550b,200,200,1,0,f83af033-4aba-4aa4-a847-de5117664f9f.jpg",
+			"shortBio": "Tech Lead @ Uniwhere",
+			"title": "Tech Lead @ Uniwhere",
+			"socials": [{
+				"icon": "linkedin",
+				"link": "https://www.linkedin.com/in/marco-gomiero-a80857ab/",
+				"name": "LinkedIn"
+			}],
+			"badges": []
+		},"GianSegato": {
+			"bio": "Gianluca Segato is the CEO and founder of Uniwhere, an app that helps students go through college more effectively thanks to data aggregation. He graduated in Economics and he's skilled in machine learning, growth engineering and venture investment. His company has been included among the top 100 startups in Berlin and has been featured in several international media outlets, from SkyNews24 to The Huffington Post.",
+			"company": "",
+			"companyLogoUrl": "",
+			"country": "Italy",
+			"name": "Gian Segato",
+			"order": 50,
+			"photoUrl": "https://sessionize.com/image?f=18c38b66718d8c04032cf77f9b541356,200,200,1,0,48-02a3-4d42-b92d-f963188f95a4.2c1fcea8-e676-485d-bdcc-de3234ed9399.jpg",
+			"shortBio": "Uniwhere founder",
+			"title": "Uniwhere founder",
+			"socials": [{
+				"icon": "linkedin",
+				"link": "https://www.linkedin.com/in/giansegato/",
+				"name": "LinkedIn"
+			}],
+			"badges": []
+		},"Lynn Langit": {
+			"bio": "Cloud Architect working with remote dev teams world-wide to build cloud solutions. Author of 30 LinkedIn Learning Cloud/Data courses with over 4 million student views. https://www.linkedin.com/learning/instructors/lynn-langit ",
+			"company": "",
+			"companyLogoUrl": "",
+			"country": "USA",
+			"name": "Lynn Langit",
+			"order": 51,
+			"photoUrl": "https://media-exp1.licdn.com/dms/image/C5603AQGml4fENVt4VA/profile-displayphoto-shrink_800_800/0?e=1608163200&v=beta&t=zYmMP1kOyBHgIk1miUrsmpq4-yY5Z9RtgEwFqvlf9nU",
+			"shortBio": "CEO Lynn Langit Consulting LLC - Google Developer Expert Cloud - AWS Community Hero - Microsoft Regional Director",
+			"title": "CEO Lynn Langit Consulting LLC - Google Developer Expert Cloud - AWS Community Hero - Microsoft Regional Director",
+			"socials": [{
+				"icon": "linkedin",
+				"link": "https://www.linkedin.com/in/lynnlangit/",
+				"name": "LinkedIn"
+			}],
+			"badges": []
 		}
-
-		
     },
 	"team": [{
 		"members": [{
