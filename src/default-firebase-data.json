@@ -1225,7 +1225,40 @@
 				"name": "LinkedIn"
 			}],
 			"badges": []
+		},"NadiaBenedetti": {
+			"bio": "Advanced Trainer in Ludo-pedagogia, Facilitatrice Serious Play e Game Thinking Coach, sono specializzata nel migliorare la performance individuale e di squadra attraverso le dinamiche del gioco. In particolare costruisco percorsi coinvolgenti che invitano i partecipanti a mettersi in azione, esercitare le soft skills e sperimentare comportamenti più efficaci per gestire il cambiamento.",
+			"company": "",
+			"companyLogoUrl": "",
+			"country": "France",
+			"name": "Nadia Benedetti",
+			"order": 52,
+			"photoUrl": "https://sessionize.com/image?f=0f92d5e1bebe8bb8947c9690ee88c8a5,200,200,1,0,67-8f52-47d3-8bcb-8edf633fba12.472114e8-7310-4f49-a462-9071cef29d9b.jpg",
+			"shortBio": "Playnbe Founder -Change in action in a playful way",
+			"title": "Playnbe Founder -Change in action in a playful way",
+			"socials": [{
+				"icon": "linkedin",
+				"link": "https://www.linkedin.com/in/nadiabenedetti/",
+				"name": "LinkedIn"
+			}],
+			"badges": []
+		},"MariaStimolo": {
+			"bio": "Le parole sono importanti, saperle comunicare ancora di più. Durante gli anni universitari mi chiedevo come avrei potuto unire gli studi umanistici, la passione per la scrittura e la curiosità verso il settore della comunicazione utilizzando i nuovi media. Tutto ciò ha portato ad avvicinarmi al mondo della comunicazione digitale. Mi sono accorta concretamente di quanto una buona strategia di digital marketing si fondi sulla consapevolezza della forza delle parole, così mi sono concentrata soprattutto sul Content Marketing e sulle tematiche inerenti al Personal Branding . Sono stata community manager GDGCatania e WTM Ambassador e formatrice nelle attività del Coderdojo Etneo. Da due anni mi occupo di content marketing e di strategie digitali per Crm4, un'azienda di sviluppo software.",
+			"company": "",
+			"companyLogoUrl": "",
+			"country": "Italy",
+			"name": "Maria Stimolo",
+			"order": 53,
+			"photoUrl": "https://sessionize.com/image?f=a01490256c935bd52e0c2abc0c21f2b2,200,200,1,0,7dded45d-bbab-4e16-9519-42368504891e.jpg",
+			"shortBio": "Content marketing, comunicazione digitale",
+			"title": "Content marketing, comunicazione digitale",
+			"socials": [{
+				"icon": "linkedin",
+				"link": "https://www.linkedin.com/in/maria-stimolo/",
+				"name": "LinkedIn"
+			}],
+			"badges": []
 		}
+
     },
 	"team": [{
 		"members": [{
