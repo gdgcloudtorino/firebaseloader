@@ -376,13 +376,13 @@
 				}
 			],
 			"tracks": [{
-					"title": "Cloud Computing"
+					"title": "Room 'Dev'"
 				},
 				{
-					"title": "Mobile"
+					"title": "Room 'Fest'"
 				},
 				{
-					"title": "IWD / Diversity"
+					"title": "Room 'Italia'"
 				}
 			]
 		},
@@ -922,7 +922,7 @@
 	  "213": {
 		"complexity": "Introductory",
 		"description": "What are the problems (and how to resolve them) that a new member of the team is facing during a remote onboarding. I want to share my experience.",
-		"language": "English",
+		"language": "Italian",
 		"speakers": ["FabrizioWaldner"],
 		"tags": ["Talk", "Diversity & Inclusion"],
 		"title": "The remote onboarder"
