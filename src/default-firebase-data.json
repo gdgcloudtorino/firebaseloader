@@ -753,7 +753,7 @@
 		"language": "English",
 		"speakers": ["JavierProvechoFernandez"],
 		"tags": ["Talk", "Cloud Computing"],
-		"title": "Deploy you private DNS server on Google Cloud for free"
+		"title": "Deploy your private DNS server on Google Cloud for free"
 	  },"133": {
 		"complexity": "Introductory",
 		"description": "Parlerò dei modelli di business più impattanti sul mercato italiano per creare un'impresa interamente online, automatica e che sia altamente profittevole.",
@@ -1022,7 +1022,7 @@
 		"title": "Impostor syndrome, motivation and self confidence"
 	  },"261": {
 		"complexity": "Intermediate",
-		"description": "Estratto da un vero progetto, pipeline di analisi dati raccolti da tracker gsp veicolari usando strumenti della Google Cloud Platform.",
+		"description": "Estratto da un vero progetto, pipeline di analisi dati raccolti da tracker gps veicolari usando strumenti della Google Cloud Platform.",
 		"language": "Italian",
 		"speakers": ["NicolaGuglielmi"],
 		"tags": ["Talk", "Cloud Computing"],
