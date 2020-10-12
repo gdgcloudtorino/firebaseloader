@@ -472,13 +472,13 @@
 			}]
 		},
 		"GiulioRoggero": {
-			"bio": "Sono fortunato perché il mio lavoro e la mia passione coincidono! Scrivere codice, disegnare Architetture Software e “mettere in produzione” sistemi informatici complessi sono le attività che prediligo. In 20 anni di professione ho messo le mani in diversi contesti: dalla migrazione di 3 milioni di righe di codice da SCO Unix a Linux, alle architetture a microservizi su cluster kubernetes. Ho la fortuna di lavorare con i fortissimi team di Mia-Platform e Intré con i quali condivido successi e fatiche nel ruolo di CTO per la prima e di Strategist per la seconda; e visto che il codice da solo non basta, con i coach di Agile Reloaded abbiamo creato una bella realtà per aiutare le aziende a lavorare al meglio.",
+			"bio": "Il mio focus principale è semplificare la vita a sviluppatori e IT operations con Mia-Platform, uno dei primi Digital Integration Hub out-of-the-box al mondo. Ad oggi aiuto più di 70 persone dei team di Mia (software engineers, product owners, IT operations, UX designers) a creare un prodotto che semplifica lo sviluppo su Kubernetes.",
 			"company": "",
 			"companyLogoUrl": "",
 			"country": "Italy",
 			"name": "Giulio Roggero",
 			"order": 8,
-			"photoUrl": "https://sessionize.com/image?f=5b2a0eb5e65329ae38eea3a502e73fb3,200,200,1,0,92-445d-456b-8585-f94d1c4a0e0a.4ef35759-b2f9-488d-a596-6840104ef4ff.jpeg",
+			"photoUrl": "https://sessionize.com/image?f=bbef81e20c034b0fe27fe03f63fe5c4b,200,200,1,0,92-445d-456b-8585-f94d1c4a0e0a.abeec8d8-a8e6-4585-8327-4396b283b273.jpg",
 			"shortBio": "Founder & CTO Mia-Platform, Partner & CS Intré, Founder Agile Reloaded",
 			"title": "Founder & CTO Mia-Platform, Partner & CS Intré, Founder Agile Reloaded",
 			"socials": [{
@@ -1224,7 +1224,11 @@
 				"link": "https://www.linkedin.com/in/lynnlangit/",
 				"name": "LinkedIn"
 			}],
-			"badges": []
+			"badges": [{
+				"description": "Google Developers Expert - Cloud",
+				"link": "https://developers.google.com/community/experts/directory/profile/profile-lynn_langit",
+				"name": "gde"
+			}]
 		},"NadiaBenedetti": {
 			"bio": "Advanced Trainer in Ludo-pedagogia, Facilitatrice Serious Play e Game Thinking Coach, sono specializzata nel migliorare la performance individuale e di squadra attraverso le dinamiche del gioco. In particolare costruisco percorsi coinvolgenti che invitano i partecipanti a mettersi in azione, esercitare le soft skills e sperimentare comportamenti più efficaci per gestire il cambiamento.",
 			"company": "",
