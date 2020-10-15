@@ -121,9 +121,9 @@
 		{
 			"logos": [{
 				"order": 0,
-				"logoUrl": "../images/logos/jetbrains.png",
-				"name": "JetBrains",
-				"url": "https://www.jetbrains.com/"
+				"logoUrl": "../images/logos/adi.png",
+				"name": "ADI - Android Developers Italia",
+				"url": "https://androiddevs.it/"
 			},{
 				"order": 1,
 				"logoUrl": "../images/logos/corley_logo.png",
@@ -149,6 +149,11 @@
 				"logoUrl": "../images/logos/slido_logo.png",
 				"name": "Sli.do",
 				"url": "https://www.sli.do/"
+			},{
+				"order": 6,
+				"logoUrl": "../images/logos/codemotion_milan.png",
+				"name": "Codemotion",
+				"url": "https://www.codemotion.com/"
 			}],
 			"order": 2,
 			"title": "Supporters"
