@@ -535,6 +535,12 @@
 							"items": [
 								263
 							]
+						},
+						{
+							"extend": 2,
+							"items": [
+								302
+							]
 						}
 					],
 					"startTime": "15:00"
@@ -624,6 +630,9 @@
 				},
 				{
 					"title": "Room 'Italia'"
+				},
+				{
+					"title": "Room Workshop"
 				}
 			]
 		}
