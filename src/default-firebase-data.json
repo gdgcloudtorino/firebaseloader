@@ -723,7 +723,7 @@
 		"description": "Partiamo con l'introdurre il concetto di Super-Convergenza dal paper 'Super-Convergence: Very Fast Training of Neural Networks Using Large Learning Rates' (Leslie N. Smith and Nicholay Topin) per apprenderne potenzialità ed esplorare i successivi tentativi, le idee di modifica del metodo originale e le implementazioni in uso fino ad ora",
 		"language": "Italian",
 		"speakers": ["MichelaSessi"],
-		"tags": ["Talk", "Machine Learning"],
+		"tags": ["Talk", "ML"],
 		"title": "Super-Convergenza di reti neurali: idea, utilizzo e casi studio"
 	  },
 	  "112": {
@@ -731,7 +731,7 @@
 		"description": "Dai progetti di startup alle piattaforme enterprise, qualsiasi applicativo in cloud merita una certa attenzione per predire, controllare e governare i costi. Vedremo insieme alcuni pattern, anche molto diversi tra loro, la cui conoscenza può rivelarsi fondamentale per gestire al meglio un progetto in cloud.",
 		"language": "Italian",
 		"speakers": ["GabrieleMittica"],
-		"tags": ["Talk", "Cloud Computing"],
+		"tags": ["Talk", "Cloud"],
 		"title": "5 strategie per controllare i costi in cloud (ed evitare di spendere milioni!)"
 	  }, 
 	  "113": {
@@ -747,7 +747,7 @@
 		"description": "In questa presentazione vedremo il perché il deep learning è diventato così importante in questi anni e alcuni casì d'uso in diversi settori",
 		"language": "Italian",
 		"speakers": ["MatteoTesti"],
-		"tags": ["Talk", "Machine Learning"],
+		"tags": ["Talk", "ML"],
 		"title": "Intro to Deep Learning"
 	  },
 	  "122": {
@@ -755,7 +755,7 @@
 		"description": "E’ meglio separare i microservizi per layer o per scopo? Quanti gateway devo avere? E’ necessario un pub/sub per far comunicare i microservizi? La persistenza dove la metto? Quali linguaggi uso? Sono alcune delle domande tipiche che ci si pone quando si parte a disegnare e sviluppare una piattaforma moderna basata su microservizi e containers. In questo talk vedremo alcuni stili architetturali e buone pratiche di test, deploy, monitoraggio e business continuity per creare piattaforme robuste e scalabili. Spoiler: non parlerò di Twelve-Factor App :-)",
 		"language": "Italian",
 		"speakers": ["GiulioRoggero"],
-		"tags": ["Talk", "Cloud Computing"],
+		"tags": ["Talk", "Cloud"],
 		"title": "Stili architetturali in Kubernetes"
 	  },"123": {
 		"complexity": "Introductory",
@@ -769,14 +769,14 @@
 		"description": "AI, Machine learning and related sciences will change the way we are working in many industries: for sure the communication world will be heavily impacted by such upcoming technologies. During the session, we are going to see how to use Deep Learning based on Convolutional Neural Network to create a voice recognition engine and Recurrent Neural Network application for sentiment analysis. Design and implementation challenges will also be explained, along with practical examples: we will see how to evaluate the performance of the AI model and how to use some of the main machine learning technique to improve its accuracy.",
 		"language": "Italian",
 		"speakers": ["DiegoGosmar"],
-		"tags": ["Talk", "Machine Learning"],
+		"tags": ["Talk", "ML"],
 		"title": "AI and Machine Learning: Sentiment Analysis and Voice Biometric applications"
 	  },"132": {
 		"complexity": "Introductory",
 		"description": "I’ll talk about what’s DNS, why it is important to establish a secure connection to it, existing alternatives and how to self host your own server using Always Free Tier from Google Cloud. Managing your own private DNS server allows you to gain insight on your device’s activity, block malicious requests and protect your traffic from eavesdropping to local hackers when using untrusted WiFi.",
 		"language": "English",
 		"speakers": ["JavierProvechoFernandez"],
-		"tags": ["Talk", "Cloud Computing"],
+		"tags": ["Talk", "Cloud"],
 		"title": "Deploy your private DNS server on Google Cloud for free"
 	  },"133": {
 		"complexity": "Introductory",
@@ -790,7 +790,7 @@
 		"description": "We’re moving fast towards a world without screens, with 30% of all searches set to happen without a screen by 2020. Google’s investing heavily into voice-first interfaces, making it the new touch, and most of it remains uncharted territory, since building for the ear is very different than building for the eyes. This talk is about building a successful product for a voice-first world. Attendees will learn of the similarities and differences when developing for voice compared to screen-oriented mediums, how to create engaging experiences where customers can easily find what they need via voice, and how the conversational design process works.",
 		"language": "English",
 		"speakers": ["FaizMalkani"],
-		"tags": ["Talk", "Machine Learning"],
+		"tags": ["Talk", "ML"],
 		"title": "Conversational Design for a Voice First World"
 	  },"142": {
 		"complexity": "Introductory",
@@ -852,7 +852,7 @@
 		"description": "R-Ladies Italy è un progetto congiunto tra RLadies Bari e RLadies Milano, due local chapters di RLadies (https://rladies.org/), organizzazione non-profit il cui obiettivo è aiutare donne e minoranze ad accedere al mondo della Data Science, dell'analisi dei dati e della programmazione in R. Il progetto si realizza attraverso una serie di webinars pensati come strumento che permetta di navigare il mare di opportunità professionali legate al settore. Con l'obiettivo di offrire una visione ampia e completa, dedichiamo particolare attenzione soprattutto a ruoli tecnici in settori non tradizionalmente legati alla Data Science, e.g. HR. A fronte del lock-down, le due community di Bari e Milano hanno unito le forze per creare un ecosistema di condivisione, inclusione e supporto reciproco. Molte professioniste del settore hanno deciso di aiutarci nella nostra missione: loro sono le protagoniste dei nostri webinars. Curiosi di scoprire il mondo R-Ladies, le attività, i meetup e come partecipare attivamente all'interno della community? Non perdete questo talk. Parvaneh (RLadies Milano), Giovanna e Sara (RLadies Bari) vi accompagneranno alla scoperta della community.",
 		"language": "Italian",
 		"speakers": ["GiovannaDeVincenzo"],
-		"tags": ["Talk", "Diversity & Inclusion"],
+		"tags": ["Talk", "Inclusion"],
 		"title": "R Ladies Italy"
 	  },
 	  "171": {
@@ -948,7 +948,7 @@
 		"description": "What are the problems (and how to resolve them) that a new member of the team is facing during a remote onboarding. I want to share my experience.",
 		"language": "Italian",
 		"speakers": ["FabrizioWaldner"],
-		"tags": ["Talk", "Diversity & Inclusion"],
+		"tags": ["Talk", "Inclusion"],
 		"title": "The remote onboarder"
 	  },
 	  "221": {
@@ -972,7 +972,7 @@
 		"description": "Alcune volte, involontariamente, si creano prodotti e algoritmi che non sono così etici e/o inclusivi. In questa sessione vediamo qualche esempio di come, in alcuni casi, involontariamente o per errore algoritmi e progetti hanno tralasciato gli aspetti d'inclusione e di eticità. Nulla di tecnico, esclusivamente qualche spunto di riflessione per imparare dagli errori e rendere il mondo un posto migliore (per tutti) :)",
 		"language": "Italian",
 		"speakers": ["MichelMurabito"],
-		"tags": ["Talk", "Diversity & Inclusion"],
+		"tags": ["Talk", "Inclusion"],
 		"title": "Algoritmi e Software Etici"
 	  },
 	  "231": {
@@ -996,7 +996,7 @@
 		"description": "Malgrado i molti passi in avanti nella lotta alla disparità, persiste, in alcuni casi, un linguaggio ormai datato e una rappresentazione stereotipata delle donne che lavorano nel mondo scientifico e tecnologico. Vi propongo un analisi storica di questo fenomeno con testimonianze dirette di ricercatrici, professioniste del settore e giornaliste che permettano di riflettere e interrogarsi sui i passi necessari per una comunicazione e un linguaggio maggiormente inclusivo.",
 		"language": "Italian",
 		"speakers": ["MirellaOrsi"],
-		"tags": ["Talk", "Diversity & Inclusion"],
+		"tags": ["Talk", "Inclusion"],
 		"title": "Comunicazione inclusiva nel mondo scientifico e tecnologico"
 	  },
 	  "241": {
@@ -1020,7 +1020,7 @@
 		"description": "I would like to talk about how to implement and test accessibility in Android apps. I will cover all the aspects including manual as well as automation testing. I will use theory as well as coding samples in this session.",
 		"language": "Italian",
 		"speakers": ["NavSingh"],
-		"tags": ["Talk", "Diversity & Inclusion"],
+		"tags": ["Talk", "Inclusion"],
 		"title": "Accessibility in Android world"
 	  },
 	  "251": {
@@ -1028,14 +1028,14 @@
 		"description": "Developing a native kubernetes app goes around two simple concepts: defining new data structures (custom resources) and delivering a kubernetes component that handles those structures. Despite that, doing the first steps can be intimidating: how do we define (and consume) new resources? How about interacting with existing resources defined by somebody else? How do I even find their Go definition? In this talk, I'll introduce: <br> - how to interact with kubernetes custom resource using non type safe clients <br> - how to leverage the code generation to avoid casting errors and reduce the proliferation of boilerplate code <br> - how informers, workqueues and other powerful tools make it possible to implement a bullet proof event loop <br> - Finally, I'll describe the operator-sdk, a framework that makes the implementation of a controller even simpler and more automated The audience will walk away with a solid understanding on how the codebase of a kubernetes controller looks like, how to read it and how to leverage the tools required to be able to write a kubernetes controller.",
 		"language": "Italian",
 		"speakers": ["FedericoPaolinelli"],
-		"tags": ["Talk", "Cloud Computing"],
+		"tags": ["Talk", "Cloud"],
 		"title": "It's all about reconciliation - anatomy of a kubernetes controller"
 	  }, "252": {
 		"complexity": "Advanced",
 		"description": "In this session I explain how to leverage bayesian optimization in order to draft the best DNN architecture for your TensorFlow projects",
 		"language": "Italian",
 		"speakers": ["LucaMassaron"],
-		"tags": ["Talk", "Machine Learning"],
+		"tags": ["Talk", "ML"],
 		"title": "Bayesian Optimization for Neural Architecture Search"
 	  }, "253": {
 		"complexity": "Intermediate",
@@ -1049,14 +1049,14 @@
 		"description": "Estratto da un vero progetto, pipeline di analisi dati raccolti da tracker gps veicolari usando strumenti della Google Cloud Platform.",
 		"language": "Italian",
 		"speakers": ["NicolaGuglielmi"],
-		"tags": ["Talk", "Cloud Computing"],
+		"tags": ["Talk", "Cloud"],
 		"title": "Road risk analysis with Google Cloud serverless tools"
 	  }, "262": {
 		"complexity": "Introductory",
 		"description": "Overview sui sistemi di raccomadazione della piattaforma di streaming musicale di Spotify: la costruzione di una business intelligence per il miglioramento della customer experience e la customer satisfation.",
 		"language": "Italian",
 		"speakers": ["LorenzaDeBerardinis"],
-		"tags": ["Talk", "Machine Learning"],
+		"tags": ["Talk", "ML"],
 		"title": "Come Spotify migliora la customer satisfaction utilizzando l’intelligenza artificiale"
 	  }, 
 	  "263": {
@@ -1072,7 +1072,7 @@
 		"description": "È un player ancora molto giovane e non è chiaro se è una meteora o qualcosa che resterà sul mercato e ritaglierà una fetta della torta...ma proviamo a capire insieme cosa offre questo nuovo runtime per Javascript che vanta maggiore sicurezza rispetto a Node e la possibilità di utilizzare TypeScript...e non solo!",
 		"language": "Italian",
 		"speakers": ["FrancescoSciuti"],
-		"tags": ["Talk", "Cloud Computing"],
+		"tags": ["Talk", "Cloud"],
 		"title": "Deno - L'anagramma di Node"
 	  }, 
 	  "272": {
@@ -1080,7 +1080,7 @@
 		"description": "Machine Learning (ML) models have become very popular in recent years due to the capabilities they offer by adding to our applications with seemingly intelligent behaviors and predictive analytics systems. Everyone talks about prediction models, learning models, neuron networks and Deep Learning. But the big question is how we can automate the learning/building and deployment processes. In this talk, I will explain what Machine Learning is and which are the different families of algorithms that exist to build our ML models. I will also describe How the life cycle of the ML models work in order to understand how this process can be automated and monitored. The need for automation will lead me to explain what Machine Learning Operations (MLOps) is and how we can deploy them into Google Cloud Platform (GCP) by means of Kubernetes, Kubeflow, Pipelines, Jupyter Notebooks and Hub AI.",
 		"language": "English",
 		"speakers": ["MoiśesMartínez"],
-		"tags": ["Talk", "Machine Learning"],
+		"tags": ["Talk", "ML"],
 		"title": "Machine Learning Operations (MLOps) in GCP"
 	  }, 
 	  "273": {
@@ -1096,7 +1096,7 @@
 		"description": "GraphQL is the easy way to do the hard stuff for developers! In this session, we show how to set-up and manage a hosted, serverless, and secure GraphQL API in minutes. Then we will extend it with relationships to other data collections and custom resolvers to bundle together different data sources and APIs together under the same schema. Finally, we will build out an entire web application using our GraphQL endpoint to demonstrate how GraphQL gives us exactly the data we want- nothing more, nothing less.",
 		"language": "English",
 		"speakers": ["KarenHuaulme"],
-		"tags": ["Talk", "Cloud Computing"],
+		"tags": ["Talk", "Cloud"],
 		"title": "GraphQL: The Easy Way to Do The Hard Stuff"
 	  }, 
 	  "282": {
@@ -1104,7 +1104,7 @@
 		"description": "AI forte prevede un uso simbolico formale di logica in grado di spiegare in modo non ambiguo le inferenze, ML impara da sola usando metodi matematici di approssimazione, ottimizzazione e statistica che vanno alimentati con cura. Il futuro prevede una ibridazione dei due approcci e quello che noi presentiamo in questo incontro come anello di congiunzione sono i modelli concettuali (o semantici).",
 		"language": "Italian",
 		"speakers": ["NicolaPedot"],
-		"tags": ["Talk", "Machine Learning"],
+		"tags": ["Talk", "ML"],
 		"title": "AI, ML e l'anello mancante"
 	  }, 
 	  "283": {
@@ -1120,7 +1120,7 @@
 		"description": "Lynn is actually Google Cloud Expert, Microsoft Regional Director, and AWS Community Hero. The interview will be a nice chat between 2 GDE Cloud Ladies, Lynn from the USA and Antonella from Europe about the current and future methodologies and strategies, not only Cloud, not only Google. A great opportunity for discussion made even more significant by your questions in the Q&A section.",
 		"language": "English",
 		"speakers": ["AntonellaBlasetti", "LynnLangit"],
-		"tags": ["Talk", "Cloud Computing"],
+		"tags": ["Talk", "Cloud"],
 		"title": "Lynn Langit - Interview with the first Google Expert ever"
 	  },
 	  "292": {
@@ -1128,7 +1128,7 @@
 		"description": "Gli algoritmi genetici sono una classe di algoritmi di intelligenza artificiale ed in particolare della branca della computazione evolutiva. Sono utilizzati per tentare di risolvere problemi di ottimizzazione per i quali non sono note soluzioni a complessità lineare o polinomiale.",
 		"language": "Italian",
 		"speakers": ["LucaDiVita"],
-		"tags": ["Talk", "Machine Learning"],
+		"tags": ["Talk", "ML"],
 		"title": "Processi evolutivi attraverso algoritmi genetici"
 	  }, 
 	  "293": {
@@ -1139,7 +1139,7 @@
 		"tags": ["Talk", "Soft Skill"],
 		"title": "Public Speaking per chiacchieroni timidi"
 	  },
-	  "301":{
+	  "302":{
 			"complexity": "",
 			"description": "I am Remarkable è il workshop di Google incentrato sulla motivazione e sulla corretta autopromozione di se stessi. Posti limitati. Per partecipare al workshop è richiesta l'iscrizione tramite il form https://docs.google.com/forms/d/e/1FAIpQLSf-dycCwqY4M-oI0I9uRonVprUcqibSfUVJSGLz1H6vISoTtw/viewform",
 			"language": "Italiano",
@@ -1147,7 +1147,7 @@
 			"tags": ["Workshop"],
 			"title": "I am Remarkable"
 		},
-		"302":{
+		"301":{
 			"complexity": "",
 			"description": "WORKSHOP Creative Problem Solving: stimolare l’intelligenza creativa e risolvere problemi del new normal (online/offline). Il creative problem solving è un metodo strutturato per immaginare rapidamente nuove soluzioni a problemi complessi. Molto utile in tempi di trasformazione, permette di allenare l’intelligenza creativa di squadra al servizio dell’innovazione. Non si cercano semplicemente soluzioni, ma soluzioni inedite, con un processo che associa l'utile al dilettevole tramite una dinamica ludica. Non sarete semplici spettatori, ma partecipanti al 100%. Posti limitati, iscrizione tramite il form https://docs.google.com/forms/d/e/1FAIpQLSeoI19Ecb_6R8f3WAX38wdI-zk9MmkdVXUVtp7sfGNHRji45A/viewform",
 			"language": "Italiano",
@@ -1188,6 +1188,16 @@
 				"icon": "linkedin",
 				"link": "https://www.linkedin.com/in/giuliavillirilli/",
 				"name": "LinkedIn"
+			}, 
+			{
+				"icon": "facebook",
+				"link": "https://www.facebook.com/giulia.villirilli.10",
+				"name": "Facebook"
+			},
+			{
+				"icon": "instagram",
+				"link": "https://www.instagram.com/giulia_villirilli_coaching",
+				"name": "Instagram"
 			}],
 			"badges": []
 		},
