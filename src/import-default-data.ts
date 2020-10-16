@@ -77,7 +77,7 @@ const importTeam = () => {
   });
 };
 
-const importPartners = () => {
+export const importPartners = () => {
   const partners = data.partners;
   if (!Object.keys(partners).length) {
     return false;
